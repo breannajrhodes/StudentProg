@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0bb7dd0-cc43-4f5e-95b7-4283c16b50ef": {
+      "ProjectGuid": "a0bb7dd0-cc43-4f5e-95b7-4283c16b50ef",
+      "DisplayName": "StudentProg",
+      "ColorIndex": 0
+    },
+    "51df3179-fe26-4d89-b8d5-42bfdf05bdd6": {
+      "ProjectGuid": "51df3179-fe26-4d89-b8d5-42bfdf05bdd6",
+      "DisplayName": "StudentLib",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

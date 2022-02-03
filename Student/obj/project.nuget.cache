@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OUtAzMvSXKpnZyu0ZT+l7HLqGHVBBDhMremTVnMwq79lKlAeyImXCyIYq4rS2zGkNcp5s4L+TREzJAHV7ZuDqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brean\\source\\repos\\StudentProg\\Student\\StudentLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brean\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
